@@ -30,7 +30,7 @@ _We interact with the system via a simple set of commands which produce a specif
 1) It should provide us with an interactive command prompt based shell where commands can be typed in
 2) It should accept a filename as a parameter at the command prompt and read the commands from that file
 
-#### Example: File
+### Example: File ###
     To run the program:						
     $ ./parking_lot file_inputs.txt
 						
