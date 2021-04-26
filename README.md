@@ -95,6 +95,7 @@ _We interact with the system via a simple set of commands which produce a specif
     park KA-01-HH-9999 White
     Output:
     Allocated slot number: 2
+    
     Input:
     park KA-01-BB-0001 Black
     Output:
