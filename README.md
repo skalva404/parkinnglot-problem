@@ -70,8 +70,8 @@ _We interact with the system via a simple set of commands which produce a specif
 
 	Allocated slot number: 4
     Sorry, parking lot is full
-    KA-01-HH-1234, KA-01-HH-9999, KA-01-P-333
-    1, 2, 4
+    KA-01-HH-1234, KA-01-HH-9999
+    1, 2
     6 
     Not found
 
@@ -146,12 +146,12 @@ _We interact with the system via a simple set of commands which produce a specif
     registration_numbers_for_cars_with_colour White
     
     Output:
-    KA-01-HH-1234, KA-01-HH-9999, KA-01-P-333
+    KA-01-HH-1234, KA-01-HH-9999
     
     Input:
     slot_numbers_for_cars_with_colour White
     Output:
-    1, 2, 4
+    1, 2
     
     Input:
     slot_number_for_registration_number KA-01-HH-3141
